@@ -1,2 +1,2 @@
-# design-demo
-设计模式demo
+# 设计模式demo
+1-单例模式(singleton)
